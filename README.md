@@ -1,4 +1,4 @@
-# Code_wars_SQL
+# Code Wars SQL
 
 Exercises for Code_wars for personal and learning purposes only. 
 
